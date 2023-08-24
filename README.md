@@ -1,1 +1,1 @@
-# 1-GNN-KMeans
+# 1-GNN-Clustering
